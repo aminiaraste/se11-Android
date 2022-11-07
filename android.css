@@ -362,4 +362,53 @@
         margin-left: 58%;
     }
 }
-
+@media only screen and (max-width: 400px){
+    #head{
+        width: 40%;
+        height: 10%;
+        margin-top: 50%;
+        margin-left: 30%;
+    }
+    #body{
+        width: 40%;
+        height: 15%;
+        margin-top: 72%;
+        margin-left: 30%;
+    }
+    #hand{
+        width: 10%;
+        height: 12%;
+        margin-top: 72%;
+        margin-left: 16%;
+    }
+    #hand-right{
+        width: 10%;
+        height: 12%;
+        margin-top: 72%;
+        margin-left: 75%;
+    }
+    #foot-left{
+        margin-top: 85%;
+        margin-left: 35%;
+    }
+    #foot-right{
+        margin-top: 85%;
+        margin-left: 55%;
+    }
+    #eay{
+        margin-top: 59%;
+        margin-left: 38%;
+    }
+    #eayright{
+        margin-top: 59%;
+        margin-left: 58%;
+    }
+    #shach{
+        margin-top: 43%;
+        margin-left: 38%;
+    }
+    #shachright{
+        margin-top: 43%;
+        margin-left: 58%;
+    }
+}
