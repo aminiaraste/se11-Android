@@ -362,11 +362,11 @@
         margin-left: 58%;
     }
 }
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 412px){
     #head{
         width: 40%;
         height: 10%;
-        margin-top: 50%;
+        margin-top: 49%;
         margin-left: 30%;
     }
     #body{
@@ -410,5 +410,47 @@
     #shachright{
         margin-top: 43%;
         margin-left: 58%;
+    }
+}
+@media only screen and (min-width: 1024px){
+    #head{
+        margin-top: 23%;
+        margin-left: 30%;
+    }
+    #body{
+        margin-top: 35%;
+        margin-left: 30%;
+    }
+    #hand{
+        margin-top: 35%;
+        margin-left: 22%;
+    }
+    #hand-right{
+        margin-top: 35%;
+        margin-left: 54%;
+    }
+    #foot-left{
+        margin-top: 52%;
+        margin-left: 33%;
+    }
+    #foot-right{
+        margin-top: 52%;
+        margin-left: 43%;
+    }
+    #eay{
+        margin-top: 27%;
+        margin-left: 35%;
+    }
+    #eayright{
+        margin-top: 27%;
+        margin-left: 44%;
+    }
+    #shach{
+        margin-top: 20%;
+        margin-left: 32%;
+    }
+    #shachright{
+        margin-top: 20%;
+        margin-left: 45%;
     }
 }
